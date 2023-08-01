@@ -1,5 +1,5 @@
 # Topic-Modelling
-
+"Unsupervised clustering of short text (tweets) for topic modeling and insights."
 ## Introduction
 
 Welcome to the Topic Modelling Project! This project focuses on clustering short texts and performing topic modelling using various Natural Language Processing (NLP) techniques. The goal is to efficiently group related topics together in a semi-supervised learning setup.
@@ -18,7 +18,6 @@ Before running the project, ensure you have the following dependencies installed
 - NLTK
 - Gensim
 - scikit-learn
-- TensorFlow or PyTorch (for running deep learning models, if applicable)
 - Matplotlib (for visualizations)
 
 
